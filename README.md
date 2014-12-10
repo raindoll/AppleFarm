@@ -1,6 +1,7 @@
 あんずのリンゴ農園
 =========
-
+https://github.com/raindoll/AppleFarm/archive/master.zip
+=========
 操作方法：                                                                                                               
 ←：左へ　, →：右へ , s:ゲームスタート , r:リスタート, SHIFT+r:ランキング表示 , x:ランキングを閉じる
 
