@@ -17,6 +17,5 @@
 
 <p>使用している音楽：<br>
 　HURT RECORD : <a href="http://www.hurtrecord.com/">http://www.hurtrecord.com/</p>
-　
 <p>このゲームはアプリ文化祭に応募してます。<br>
 応募規定および禁止事項を確認し、反していません。</a></p>　
