@@ -16,4 +16,5 @@
 　を食べるためにリンゴを集めるというだけのゲームです。難易度などはないです。</p>
 
 <p>使用している音楽：
-　HURT RECORD :　<a href="http://www.hurtrecord.com/">http://www.hurtrecord.com/</a></p>
+　HURT RECORD :<br>　
+　<a href="http://www.hurtrecord.com/">http://www.hurtrecord.com/</a></p>
