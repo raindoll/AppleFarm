@@ -17,4 +17,4 @@
 
 <p>使用している音楽：
 　HURT RECORD :<br>　
-　<a href="http://www.hurtrecord.com/">http://www.hurtrecord.com/</a></p>
+<a href="http://www.hurtrecord.com/">http://www.hurtrecord.com/</a></p>
