@@ -1,13 +1,13 @@
 あんずのリンゴ農園
 =========
 <p>ダウンロード↓<br>
- <a href="http://github.com/raindoll/AppleFarm/">http://github.com/raindoll/AppleFarm/</p>
+<a href="http://github.com/raindoll/AppleFarm/archive/master.zip">http://github.com/raindoll/AppleFarm/archive/master.zip</p>
  
 <p>操作方法：<br>
 ←：左へ　, →：右へ , s:ゲームスタート , r:リスタート, SHIFT+r:ランキング表示 , x:ランキングを閉じる</p>
 
 <p>キャラクター：<br>
-・美雲あんず…このゲームの主人公。座敷童子である。人間でいうと１３歳くらい<br>
+・美雲あんず…このゲームの主人公。座敷童子である。人間でいうと１３歳くらい。<br>
 　　　　　　　好きな食べ物はあんずジャムがたっぷり入ったアップルパイ。<br>
 　　　　　　　GMOアプリクラウド公式キャラクター。</p>
 
