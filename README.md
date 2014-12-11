@@ -3,11 +3,14 @@
 <p>ダウンロード↓<br>
 <a href="http://github.com/raindoll/AppleFarm/archive/master.zip">http://github.com/raindoll/AppleFarm/archive/master.zip</p>
  
+<p>説明：<br>
+ このゲームはアプリ文化祭に応募してます。</p>
+ 
 <p>操作方法：<br>
-←：左へ　, →：右へ , s:ゲームスタート , r:リスタート, SHIFT+r:ランキング表示 , x:ランキングを閉じる</p>
+ ←：左へ　, →：右へ , s:ゲームスタート , r:リスタート, SHIFT+r:ランキング表示 , x:ランキングを閉じる</p>
 
 <p>キャラクター：<br>
-・美雲あんず…このゲームの主人公。座敷童子である。人間でいうと１３歳くらい。<br>
+ ・美雲あんず…このゲームの主人公。座敷童子である。人間でいうと１３歳くらい。<br>
 　　　　　　　好きな食べ物はあんずジャムがたっぷり入ったアップルパイ。<br>
 　　　　　　　GMOアプリクラウド公式キャラクター。</p>
 
@@ -16,4 +19,6 @@
 　を食べるためにリンゴを集めるというだけのゲームです。難易度などはないです。</p>
 
 <p>使用している音楽：<br>
-　HURT RECORD : <a href="http://www.hurtrecord.com/">http://www.hurtrecord.com/</a></p>
+　HURT RECORD : <a href="http://www.hurtrecord.com/">http://www.hurtrecord.com/</p>
+　
+<p>応募規定および禁止事項を確認し、反していません。</a></p>　
