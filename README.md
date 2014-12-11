@@ -15,6 +15,5 @@
 　あんずジャムがたっぷり入ったアップルパイが好きな美雲あんずがアップルパイ<br>
 　を食べるためにリンゴを集めるというだけのゲームです。難易度などはないです。</p>
 
-<p>使用している音楽：
-　HURT RECORD :<br>　
-<a href="http://www.hurtrecord.com/">http://www.hurtrecord.com/</a></p>
+<p>使用している音楽：<br>
+　HURT RECORD :<a href="http://www.hurtrecord.com/">http://www.hurtrecord.com/</a></p>
