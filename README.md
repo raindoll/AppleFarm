@@ -1,11 +1,10 @@
 あんずのリンゴ農園
 =========
-<h6>ダウンロード↓</h6>
+<h4>ダウンロード↓</h4>
 <p>64bit版：<br>
-<a href="http://github.com/raindoll/AppleFarm/archive/master.zip">http://github.com/raindoll/AppleFarm/archive/master.zip<br>
-32bit版：<br>
-<a href="http://github.com/raindoll/AppleFarm-x86-/archive/master.zip">http://github.com/raindoll/AppleFarm-x86-/archive/master.zip<br>
-</p>
+<a href="http://github.com/raindoll/AppleFarm/archive/master.zip">http://github.com/raindoll/AppleFarm/archive/master.zip<br></p>
+<p>32bit版：<br>
+<a href="http://github.com/raindoll/AppleFarm-x86-/archive/master.zip">http://github.com/raindoll/AppleFarm-x86-/archive/master.zip</p>
  
 <p>画像：<br>
 <img src="./画像/titlepage.png" width="250" height="250" alt="スタート画面">
@@ -25,5 +24,5 @@
 
 <p>使用している音楽：<br>
 　HURT RECORD : <a href="http://www.hurtrecord.com/">http://www.hurtrecord.com/</p>
-<p>このゲームはアプリ文化祭に応募してます。<br>
+<p>このゲームはアプリ文化祭に応募しています。<br>
 応募規定および禁止事項を確認し、反していません。</a></p>　
