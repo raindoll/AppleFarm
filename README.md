@@ -3,6 +3,10 @@
 <p>ダウンロード↓<br>
 <a href="http://github.com/raindoll/AppleFarm/archive/master.zip">http://github.com/raindoll/AppleFarm/archive/master.zip</p>
  
+<p>画像：
+<img src="./画像/titlepage.png" width="516" height="539" alt="スタート画面"><br>
+<img src="./画像/gamepage.png" width="516" height="539" alt="ゲーム画面"></p>
+
 <p>操作方法：<br>
  ←：左へ　, →：右へ , s:ゲームスタート , r:リスタート, SHIFT+r:ランキング表示 , x:ランキングを閉じる</p>
 
