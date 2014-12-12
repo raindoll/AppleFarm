@@ -1,7 +1,11 @@
 あんずのリンゴ農園
 =========
-<p>ダウンロード↓<br>
-<a href="http://github.com/raindoll/AppleFarm/archive/master.zip">http://github.com/raindoll/AppleFarm/archive/master.zip</p>
+<h6>ダウンロード↓</h6>
+<p>64bit版：<br>
+<a href="http://github.com/raindoll/AppleFarm/archive/master.zip">http://github.com/raindoll/AppleFarm/archive/master.zip<br>
+32bit版：<br>
+<a href="http://github.com/raindoll/AppleFarm-x86-/archive/master.zip">http://github.com/raindoll/AppleFarm-x86-/archive/master.zip<br>
+</p>
  
 <p>画像：<br>
 <img src="./画像/titlepage.png" width="250" height="250" alt="スタート画面">
