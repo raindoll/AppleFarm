@@ -2,9 +2,9 @@
 =========
 <h4>ダウンロード↓</h4>
 <p>64bit版：<br>
-<a href="http://github.com/raindoll/AppleFarm/archive/master.zip">http://github.com/raindoll/AppleFarm/archive/master.zip<br></p>
+<a href="http://github.com/raindoll/AppleFarm/archive/game.zip">http://github.com/raindoll/AppleFarm/archive/game.zip<br></p>
 <p>32bit版：<br>
-<a href="http://github.com/raindoll/AppleFarm-x86-/archive/master.zip">http://github.com/raindoll/AppleFarm-x86-/archive/master.zip</p>
+<a href="http://github.com/raindoll/AppleFarm-x86-/archive/game.zip">http://github.com/raindoll/AppleFarm-x86-/archive/game.zip</p>
  
 <p>画像：<br>
 <img src="./画像/titlepage.png" width="250" height="250" alt="スタート画面">
